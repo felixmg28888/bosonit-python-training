@@ -27,8 +27,13 @@
 
 > **10  - [x]** [**block06-03-review-block01-06**](https://github.com/felixmgdeveloper/bosonit-python-training/tree/main/block06-03-review-block01-06)  *//**Exercise 10:** Exercises reviewing blocks 01-06 in Python programming.*
 
+> **11  - [x]** [**block07-files**](https://github.com/felixmgdeveloper/bosonit-python-training/tree/main/block07-files)  *//**Exercise 11:** Implementing files upload and download functionality using Python's file handling capabilities.*
 
+> **12  - [x]** [**block09-01-numpy**](https://github.com/felixmgdeveloper/bosonit-python-training/tree/main/block09-01-numpy)  *//**Exercise 12:** Exploring Numpy Python library powerful for numerical computing, array manipulation, and mathematical operations.*
 
+> **13  - [x]** [**block09-02-review-numpy**](https://github.com/felixmgdeveloper/bosonit-python-training/tree/main/block09-02-review-numpy)  *//**Exercise 13:** Exercises reviewing Numpy Python library.*
+
+> **14  - [x]** [**block10-01-pandas**](https://github.com/felixmgdeveloper/bosonit-python-training/tree/main/block10-01-pandas)  *//**Exercise 14:**  Introduction to using the Pandas library in Python for structured data manipulation.**
 
 
 ***
