@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html>
+<body>
+<h1>Selecciona una función:</h1>
+
+<div>
+    <h2>Sumar números:</h2>
+    <form action="/sumar" method="get">
+        <input type="number" name="num1" placeholder="Primer número" required>
+        <input type="number" name="num2" placeholder="Segundo número" required>
+        <input type="submit" value="Sumar">
+    </form>
+</div>
+
+<div>
+    <h2>Construir usuario:</h2>
+    <form action="/usuario" method="get">
+        <input type="text" name="nombre" placeholder="Nombre" required>
+        <input type="text" name="apellido" placeholder="Apellido" required>
+        <input type="submit" value="Construir usuario">
+    </form>
+</div>
+
+<div>
+    <h2>Buscar usuarios:</h2>
+    <form action="/buscar_usuario">
+        <input type="text" name="texto" placeholder="Buscar por nombre" required>
+        <input type="submit" value="Buscar usuarios">
+    </form>
+</div>
+
+</body>
+</html>
