@@ -35,7 +35,15 @@
 
 > **14  - [x]** [**block10-01-pandas**](https://github.com/felixmgdeveloper/bosonit-python-training/tree/main/block10-01-pandas)  *//**Exercise 14:**  Introduction to using the Pandas library in Python for structured data manipulation.**
 
-> **15  - [x]** [**block11-web-development-flask**](https://github.com/felixmgdeveloper/bosonit-python-training/tree/main/block11-web-development-flask)  *//**Exercise 15:**  Introduction to web development using the Flask library.**
+> **15  - [x]** [**block10-02-pandas-01**](https://github.com/felixmgdeveloper/bosonit-python-training/tree/main/block10-02-pandas-01)  *//**Exercise 15:**  Exercise to use the Pandas Python library in banking operations.*
+
+> **16  - [x]** [**block10-02-pandas-02**](https://github.com/felixmgdeveloper/bosonit-python-training/tree/main/block10-02-pandas-02)  *//**Exercise 16:**  Exercise to use the Pandas Python library in banking operations.*
+
+> **17  - [x]** [**block10-03-review-pandas**](https://github.com/felixmgdeveloper/bosonit-python-training/tree/main/block10-03-review-pandas)  *//**Exercise 17:**  Exercises reviewing Pandas Python library.*
+
+> **17  - [x]** [**block10-04-review-numpy-and-pandas**](https://github.com/felixmgdeveloper/bosonit-python-training/tree/main/block10-04-review-numpy-and-pandas)  *//**Exercise 17:**  Exercises reviewing Numpy and Pandas Python libraries.*
+
+> **18  - [x]** [**block11-web-development-flask**](https://github.com/felixmgdeveloper/bosonit-python-training/tree/main/block11-web-development-flask)  *//**Exercise 18:**  Introduction to web development using the Flask library.**
 
 
 ***
