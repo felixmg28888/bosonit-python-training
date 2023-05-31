@@ -35,5 +35,7 @@
 
 > **14  - [x]** [**block10-01-pandas**](https://github.com/felixmgdeveloper/bosonit-python-training/tree/main/block10-01-pandas)  *//**Exercise 14:**  Introduction to using the Pandas library in Python for structured data manipulation.**
 
+> **15  - [x]** [**block11-web-development-flask**](https://github.com/felixmgdeveloper/bosonit-python-training/tree/main/block11-web-development-flask)  *//**Exercise 15:**  Introduction to web development using the Flask library.**
+
 
 ***
